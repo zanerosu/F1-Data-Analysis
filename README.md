@@ -7,13 +7,13 @@ An application for collecting, analyzing, and visualizing Formula 1 race weekend
 The goal is to build an interactive platform to make analyzing F1 session data accessible and engaging.
 
 ## Features
-- [] Fetch and cache session data.
-- [] Display driver lap times and pace trends.
-- [] Calculate driver's optimal lap from best sectors
-- [] Compare race pace across drivers and stints
-- [] Summarize pit strategy and tire usage
-- [] Build an interactive front end. 
-- [] Add predictive models for race outcomes.
+- [ ] Fetch and cache session data.
+- [ ] Display driver lap times and pace trends.
+- [ ] Calculate driver's optimal lap from best sectors
+- [ ] Compare race pace across drivers and stints
+- [ ] Summarize pit strategy and tire usage
+- [ ] Build an interactive front end. 
+- [ ] Add predictive models for race outcomes.
 
 ## Tech Stack
 - **Backend**: Python, FastF1, FastAPI
