@@ -1,0 +1,15 @@
+# Ignore virtual enviornment
+venv/
+
+# Ignore Python cache
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore FastF1 cache
+cache/
